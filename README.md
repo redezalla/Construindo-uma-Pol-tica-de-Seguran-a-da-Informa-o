@@ -1,4 +1,4 @@
-# Construindo-uma-Poltica-de-Segurança-da-Informao
+# Construindo-uma-Poltica-de-Segurança-da-Informação
 Construindo uma Política de Segurança da Informação (PSI) 
 
 
